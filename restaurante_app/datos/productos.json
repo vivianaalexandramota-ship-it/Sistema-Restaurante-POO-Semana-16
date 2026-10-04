@@ -1,0 +1,23 @@
+[
+  {
+    "id": "P001",
+    "nombre": "Hamburguesa clásica",
+    "categoria": "Plato fuerte",
+    "precio": 5.5,
+    "cantidad": 20
+  },
+  {
+    "id": "P002",
+    "nombre": "Papas fritas",
+    "categoria": "Acompañamiento",
+    "precio": 2.5,
+    "cantidad": 25
+  },
+  {
+    "id": "P003",
+    "nombre": "Jugo natural",
+    "categoria": "Bebida",
+    "precio": 2.0,
+    "cantidad": 18
+  }
+]
